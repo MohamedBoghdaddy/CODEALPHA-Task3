@@ -1,7 +1,3 @@
-Here’s an extended description for **CODEALPHA Task 3**:
-
----
-
 ### 📚 CODEALPHA Task 3
 
 ## 🚀 About
